@@ -6,27 +6,33 @@
 
 Explotación de las bases de la ENOE
 
+
 #### Objetivos Específicos:
 
 * Ofrecer un panorama general sobre el **diseño conceptual** y **estadístico** de la ENOE
 * Capacitación básica sobre el manejo de SPSS
 * Generación de indicadores con datos de la encuesta
 
+
 #### Fecha
 
 4 julio a 7 julio de 2016
+
 
 #### Horario
 
 09:00 a 12:00 horas
 
+
 #### Lugar
 
 INEGI Patriotismo 711. Sala 1, Piso 4.
 
+
 #### Requisitos
 
 Lectura del manual de SPSS.
+
 
 #### Temario
 
