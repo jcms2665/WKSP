@@ -36,13 +36,8 @@ Lectura del manual de SPSS.
 
 #### Temario
 
-1.	Aspectos generales del diseño conceptual y estadístico de la encuesta (1.30 horas)
-2.	Cuestionarios, clasificadores y estructura de la base de datos (1.30 horas)
+1.	Aspectos generales del diseño conceptual y estadístico de la encuesta (1 hora)
+2.	Cuestionarios, clasificadores y estructura de la base de datos (1 hora)
 3.	Introducción y comandos básicos de SPSS (1 hora)
-4.	Ejercicios con la base de datos ( 6 horas)
-4.1.	Selección de poblaciones
-4.2.	Construcción de variables
-4.3.	Pegado de base de datos
-4.4.	Frecuencias, tablas y estadísticas básicas
-4.5.	Matriz laboral del trabajo principal
-5.	Calculo de precisiones estadística (2 hora)
+4.	Operaciones básicas con SPSS ( 7 horas)
+5.	Calculo de precisiones estadística (2 horas)
