@@ -45,7 +45,7 @@ Lectura del manual de SPSS.
 
 
 
-#### Bibliografía
+#### Referencias bibliograficas
 
 
 ##### ENOE
