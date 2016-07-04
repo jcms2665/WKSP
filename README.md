@@ -36,8 +36,25 @@ Lectura del manual de SPSS.
 
 #### Temario
 
-1.	Aspectos generales del diseño conceptual y estadístico de la encuesta (1 hora)
-2.	Cuestionarios, clasificadores y estructura de la base de datos (1 hora)
-3.	Introducción y comandos básicos de SPSS (1 hora)
-4.	Operaciones básicas con SPSS ( 7 horas)
-5.	Calculo de precisiones estadística (2 horas)
+1.	Aspectos generales del diseño conceptual y estadístico de la encuesta 
+2.	Cuestionarios, clasificadores y estructura de la base de datos
+3.	Introducción y comandos básicos de SPSS
+4.	Operaciones básicas con SPSS 
+5.	Calculo de precisiones estadística
+
+
+
+
+#### Bibliografía
+
+
+##### ENOE
+
+- [Conociendo la base de datos de la ENOE](http://www.inegi.org.mx/est/contenidos/espanol/metodologias/ptos_enoe/descripcion_bd/conociendoenoe.pdf) 
+- [ENOE Descripción de archivos](http://www.inegi.org.mx/est/contenidos/proyectos/encuestas/hogares/regulares/enoe/doc/fd_c_bas_amp_conapo.pdf)
+- [Cómo se hace la ENOE. Métodos y procedimientos](http://www.inegi.org.mx/est/contenidos/espanol/metodologias/enoe/ENOE_como_se_hace_la_ENOE1.pdf)
+ 
+##### SPSS
+
+- [Manual del usuario de SPSS](http://jovenesprofesionales.utalca.cl/docs/estudios/Manual_Basico_SPSS.pdf)
+- [Sintaxis SPSS](http://www.uv.es/friasnav/SintaxisSPSS.pdf)
