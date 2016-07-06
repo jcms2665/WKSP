@@ -58,3 +58,4 @@ Lectura del manual de SPSS.
 
 - [Manual del usuario de SPSS](http://jovenesprofesionales.utalca.cl/docs/estudios/Manual_Basico_SPSS.pdf)
 - [Sintaxis SPSS](http://www.uv.es/friasnav/SintaxisSPSS.pdf)
+
