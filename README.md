@@ -64,3 +64,7 @@ Lectura del manual de SPSS.
 
 En la siguiente liga se encuentra el código para la reconstrucción de las tres matrices de acuerdo con los criterios del último día: [Sintaxis Final](https://github.com/jcms2665/WKSP/tree/master/FINAL)
 
+
+### Contacto
+
+Cualquier duda se puede enviar un correo a: **cesar.martinez@inegi.org.mx**
