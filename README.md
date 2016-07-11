@@ -59,3 +59,8 @@ Lectura del manual de SPSS.
 - [Manual del usuario de SPSS](http://jovenesprofesionales.utalca.cl/docs/estudios/Manual_Basico_SPSS.pdf)
 - [Sintaxis SPSS](http://www.uv.es/friasnav/SintaxisSPSS.pdf)
 
+
+##### Sintaxis
+
+En la siguiente liga se encuentra el código para la reconstrucción de las tres matrices de acuerdo con los criterios del último día: [Sintaxis Final](https://github.com/jcms2665/WKSP/tree/master/FINAL)
+
