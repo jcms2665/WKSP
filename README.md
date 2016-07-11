@@ -67,4 +67,4 @@ En la siguiente liga se encuentra el código para la reconstrucción de las tres
 
 ##### Contacto
 
-Cualquier duda se puede enviar un correo a: **cesar.martinez@inegi.org.mx**
+Cualquier duda se puede enviar un correo a: **cesar.martinez@inegi.org.mx** o **jcms2665@gmail.com**
