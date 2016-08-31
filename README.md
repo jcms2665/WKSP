@@ -1,4 +1,4 @@
-#Manejo de bases de datos con la Encuesta Nacional de Ocupación y Empleo (ENOE)
+#Minería de datos con la Encuesta Nacional de Ocupación y Empleo (ENOE)
 
 
 
